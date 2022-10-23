@@ -1,4 +1,4 @@
-
+var t;
 var interval, video = document.getElementsByTagName("video")[0],  
 stage = document.getElementById("stage"),  //stage ở đây là phần div dùng để chứa kí tự chạy
 canvas = document.createElement("canvas"),  
